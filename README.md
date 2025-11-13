@@ -13,6 +13,7 @@
     Medium Importance 
 
         - Credit OG Mod Authors for QoL Pack
+        - Add DogTag mod
         - Black Market
         - Get Server Logo figured out
         - Decide between Morty's od Teddy's Gun Mod
