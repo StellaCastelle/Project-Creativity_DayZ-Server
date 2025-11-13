@@ -15,6 +15,7 @@
         - Black Market
         - Get Server Logo figured out
         - Decide between Morty's od Teddy's Gun Mod
+        - Decide on Healthbar for Zeds/AI
 
     Low Importance:
 
