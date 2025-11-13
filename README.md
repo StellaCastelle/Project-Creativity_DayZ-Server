@@ -5,7 +5,7 @@
     High Importance:
 
         - Update QoL Serverpack
-        - Create and publish ProjectCreativityVehiclePack_beta-v.0.1
+        - Create and publish ProjectCreativityMiscPack_beta-v.0.1
         - Add Car/Clothes/Gear Mods
         - Decide on FOG gear
 
@@ -15,6 +15,7 @@
         - Black Market
         - Get Server Logo figured out
         - Decide between Morty's od Teddy's Gun Mod
+        - Create and publish ProjectCreativityTexturePack_beta-v.0.1
 
     Low Importance:
 
