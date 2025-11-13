@@ -8,6 +8,7 @@
         - Create and publish ProjectCreativityMiscPack_beta-v.0.1
         - Add Car/Clothes/Gear Mods
         - Decide on FOG gear
+        - Contact Authors of FordRaptor and RUSforma_vehicles about permission for repack
 
     Medium Importance 
 
