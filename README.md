@@ -35,3 +35,4 @@
         - Added SNAFU Weapons to the Server
     14.11.2025
         - ProjectCreativityVehiclePack_beta-v.0.1 created and published
+        - made the repository public to allow the following of our progress
