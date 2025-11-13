@@ -14,6 +14,7 @@
         - Credit OG Mod Authors for QoL Pack
         - Black Market
         - Get Server Logo figured out
+        - Decide between Morty's od Teddy's Gun Mod
 
     Low Importance:
 
@@ -24,3 +25,4 @@
 
     - TODO-List on Github created
     - ProjectCreativityQoL_beta-v.0.1 created and published
+    - Added SNAFU Weapons to the Server
