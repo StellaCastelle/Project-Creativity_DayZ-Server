@@ -15,12 +15,12 @@
         - Black Market
         - Get Server Logo figured out
         - Decide between Morty's od Teddy's Gun Mod
-        - Create and publish ProjectCreativityTexturePack_beta-v.0.1
 
     Low Importance:
 
         - Edit Serverrules
         - Discuss Car Spawns
+        - Create and publish ProjectCreativityTexturePack_beta-v.0.1
 
 **_Completed:_**
 
