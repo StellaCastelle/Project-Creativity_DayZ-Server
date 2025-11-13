@@ -22,10 +22,16 @@
 
         - Edit Serverrules
         - Discuss Car Spawns
+        - Set up Traders
         - Create and publish ProjectCreativityTexturePack_beta-v.0.1
 
 **_Completed:_**
 
-    - TODO-List on Github created
-    - ProjectCreativityQoL_beta-v.0.1 created and published
-    - Added SNAFU Weapons to the Server
+    Info: Date based on UTC+1 (Germany)
+
+    13.11.2025
+        - TODO-List on Github created
+        - ProjectCreativityQoLPack_beta-v.0.1 created and published
+        - Added SNAFU Weapons to the Server
+    14.11.2025
+        - ProjectCreativityVehiclePack_beta-v.0.1 created and published
