@@ -16,6 +16,7 @@
         - Add DogTag mod
         - Black Market
         - Get Server Logo figured out
+        - Set IP-Update_Announcer PFP to the server's logo
         - Decide between Morty's od Teddy's Gun Mod
         - Decide on Healthbar for Zeds/AI
 
