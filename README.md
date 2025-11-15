@@ -7,7 +7,6 @@
         - Update QoL Serverpack
         - Create and publish ProjectCreativityMiscPack_beta-v.0.1
         - Add Car/Clothes/Gear Mods
-        - Decide on FOG gear
         - Contact Authors of FordRaptor and RUSforma_vehicles about permission for repack
 
     Medium Importance 
@@ -15,7 +14,6 @@
         - Credit OG Mod Authors for QoL Pack
         - Add DogTag mod
         - Black Market
-        - Get Server Logo figured out
         - Set IP-Update_Announcer PFP to the server's logo
         - Decide between Morty's od Teddy's Gun Mod
         - Decide on Healthbar for Zeds/AI
@@ -38,3 +36,6 @@
     14.11.2025
         - ProjectCreativityVehiclePack_beta-v.0.1 created and published
         - Made the repository public to allow the following of our progress
+    15.11.2025
+        - Server Logo(s) have been chosen and are being set across all platforms
+        - Medium Fog Gear Chosen
